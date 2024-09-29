@@ -6,5 +6,9 @@ var todos = []
 addToDo.on("click", function () {
     todos.push(todoInput.value)
     console.log(todos)
-    todoList.innerHTML += `<li>${todos[i]}</li>`
+    todoList.innerHTML += `<li><input type="checkbox" class="form-check-input me-2"> ${todoInput.value}</li>`
 })
+
+for (let i = 0; i < todos.length; i++) {
+    console.log(todos[i])
+}
