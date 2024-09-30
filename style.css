@@ -1,12 +1,58 @@
+* {
+    color: var(--black);
+}
+
+:root {
+    --primary: #415a77;
+    --secondary: #778da9;
+    --dark: #1b263b;
+    --light: #e0e1dd;
+    --black: #0d1b2a;
+    --white: #fff;
+}
+
+body {
+    background-color: var(--black);
+}
+
+h1 {
+    background-color: var(--primary);
+    color: var(--white);
+
+}
+
+iconify-icon {
+    transform: translateY(4px);
+    color: var(--dark);
+}
+
+.container {
+    height: 100dvh;
+}
+
 .form-check-input,
 .form-check-label {
     cursor: pointer;
 }
 
-iconify-icon {
-    transform: translateY(4px);
+.btn-secondary {
+    background-color: var(--primary);
+    transition: all 0.3s linear;
 }
 
-.container {
-    height: 100dvh;
+.btn-secondary:hover {
+    background-color: var(--secondary);
+}
+
+.form-check-input {
+    background-color: var(--secondary);
+}
+
+.form-check-input:checked {
+    background-color: var(--primary);
+    border: none;
+}
+
+#todo-input::placeholder {
+    color: var(--primary);
 }

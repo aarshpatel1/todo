@@ -8,10 +8,10 @@ function renderTodos() {
     todoList.innerHTML = ""; // Clear the list first
     todos.forEach((todo, index) => {
         todoList.innerHTML += `
-        <li class="list-group-item d-flex justify-content-between align-items-center">
+        <li class="list-group-item d-flex justify-content-between align-items-center bg-primary-subtle">
             <div>
                 <input class="form-check-input me-2" type="checkbox" value="" id="checkboxExample${index}" ${todo.completed ? 'checked' : ''}/>
-                <label class="form-check-label ${todo.completed ? 'text-decoration-line-through' : ''}" for="checkboxExample${index}">
+                <label class="form-check-label fw-bold ${todo.completed ? 'text-decoration-line-through' : ''}" for="checkboxExample${index}">
                     ${todo.text}
                 </label>
             </div>
