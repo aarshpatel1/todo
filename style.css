@@ -2,3 +2,7 @@
 .form-check-label {
     cursor: pointer;
 }
+
+iconify-icon {
+    transform: translateY(4px);
+}
