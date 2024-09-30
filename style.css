@@ -23,7 +23,7 @@ h1 {
 
 iconify-icon {
     transform: translateY(4px);
-    color: var(--dark);
+    color: var(--primary);
 }
 
 .container {
