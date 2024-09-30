@@ -68,3 +68,8 @@ function toggleComplete() {
 for (let i = 0; i < todos.length; i++) {
     console.log(todos[i]);
 }
+
+// sortable
+$(function () {
+    $(".sortable").sortable();
+});

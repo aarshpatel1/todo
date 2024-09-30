@@ -15,13 +15,13 @@
     <div class="container d-flex justify-content-center align-items-center vh-100">
         <div id="todo-ui">
             <div class="d-flex justify-content-center align-items-center input-group">
-                <input type="search" class="form-control bg-light-subtle" id="todo-input" placeholder="To-Do" aria-label="Search"
-                    aria-describedby="search-addon">
+                <input type="search" class="form-control bg-light-subtle" id="todo-input" placeholder="To-Do"
+                    aria-label="Search" aria-describedby="search-addon">
                 <button type="button" class="btn btn-secondary" id="addToDo" data-mdb-ripple-init>Add</button>
             </div>
             <div class="my-3">
                 <!-- implement https://mdbootstrap.com/docs/standard/components/list-group/# this ui -->
-                <ul class="list-group list-group-item-dark" id="todo-list">
+                <ul class="list-group list-group-item-dark sortable" id="todo-list">
                     <!-- <li>Apple</li> -->
                 </ul>
             </div>
@@ -32,8 +32,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
-    <script src="https://code.jquery.com/jquery-3.7.1.min.js"
-        integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://code.jquery.com/ui/1.14.0/jquery-ui.js"></script>
     <script src="script.js"></script>
 </body>
 
