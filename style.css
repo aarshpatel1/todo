@@ -6,3 +6,7 @@
 iconify-icon {
     transform: translateY(4px);
 }
+
+.container {
+    height: 100dvh;
+}

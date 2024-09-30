@@ -71,5 +71,6 @@ for (let i = 0; i < todos.length; i++) {
 
 // sortable
 $(function () {
+    $(".sortable").disableSelection();
     $(".sortable").sortable();
 });
