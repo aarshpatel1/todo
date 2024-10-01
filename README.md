@@ -2,14 +2,14 @@
 
 A simple and efficient To-Do application that allows users to create, organize, and manage tasks. This app includes features such as drag-and-drop sorting, local storage to save tasks, and a responsive user interface for optimal experience across devices.
 
-![To-Do App Screenshot](desktop-ui.png)
+<!-- ![To-Do App Screenshot](desktop-ui.png) -->
 
 ## Features
 
 ### 1. **Drag-and-Drop Sorting**
    - Easily reorder your tasks by dragging and dropping them into the desired position.
    - Simple and intuitive UI makes task management easy.
-   ![Drag-and-Drop Feature](sorting.gif)
+   <!-- ![Drag-and-Drop Feature](sorting.gif)-->
 
 ### 2. **Local Storage Support**
    - Tasks are stored locally in your browser, so you don't lose your to-do list even after refreshing or closing the browser.
@@ -17,7 +17,7 @@ A simple and efficient To-Do application that allows users to create, organize, 
 
 ### 3. **Responsive UI**
    - Fully responsive design to ensure a seamless experience across all devices, including desktops, tablets, and mobile phones.
-   ![Responsive UI](responsive.gif)
+   <!-- ![Responsive UI](responsive.gif)-->
 
 ## How to Use
 
@@ -52,23 +52,23 @@ Check out the live demo of the app [here](https://aarshpatel1.github.io/todo/).
 Add screenshots here to showcase different features of the app.
 
 1. **Task Creation**
-   ![Task Creation Screenshot](task-creation.png)
+   <!-- ![Task Creation Screenshot](task-creation.png)-->
    
 2. **Drag-and-Drop Sorting**
-   ![Drag-and-Drop Sorting](sortable.gif)
+   <!-- ![Drag-and-Drop Sorting](sortable.gif)-->
    
 3. **Responsive UI**
-   ![Responsive UI Screenshot](responsive.gif)
+   <!-- ![Responsive UI Screenshot](responsive.gif)-->
 
 ## Videos
 
 You can also showcase the core functionalities through demo videos.
 
 1. **Task Sorting Video**
-   ![Task Sorting Video](sortable.gif)
+   <!-- ![Task Sorting Video](sortable.gif)-->
    
 2. **Mobile Responsiveness Demo**
-   ![Mobile Responsiveness](responsive.gif)
+   <!-- ![Mobile Responsiveness](responsive.gif) -->
 
 ## Contributing
 
