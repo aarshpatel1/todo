@@ -2,14 +2,14 @@
 
 A simple and efficient To-Do application that allows users to create, organize, and manage tasks. This app includes features such as drag-and-drop sorting, local storage to save tasks, and a responsive user interface for optimal experience across devices.
 
-![To-Do App Screenshot](desktop-screenshot.png)
+![To-Do App Screenshot](desktop-ui.png)
 
 ## Features
 
 ### 1. **Drag-and-Drop Sorting**
    - Easily reorder your tasks by dragging and dropping them into the desired position.
    - Simple and intuitive UI makes task management easy.
-   ![Drag-and-Drop Feature](path_to_drag_and_drop_video.gif)
+   ![Drag-and-Drop Feature](sorting.gif)
 
 ### 2. **Local Storage Support**
    - Tasks are stored locally in your browser, so you don't lose your to-do list even after refreshing or closing the browser.
@@ -17,7 +17,7 @@ A simple and efficient To-Do application that allows users to create, organize, 
 
 ### 3. **Responsive UI**
    - Fully responsive design to ensure a seamless experience across all devices, including desktops, tablets, and mobile phones.
-   ![Responsive UI](path_to_responsive_ui_screenshot.png)
+   ![Responsive UI](responsive.png)
 
 ## How to Use
 
@@ -52,32 +52,26 @@ Check out the live demo of the app [here](https://aarshpatel1.github.io/todo/).
 Add screenshots here to showcase different features of the app.
 
 1. **Task Creation**
-   ![Task Creation Screenshot](path_to_task_creation_screenshot.png)
+   ![Task Creation Screenshot](task-creation.png)
    
 2. **Drag-and-Drop Sorting**
-   ![Drag-and-Drop Sorting](path_to_drag_and_drop_screenshot.png)
+   ![Drag-and-Drop Sorting](sortable.gif)
    
 3. **Responsive UI**
-   ![Responsive UI Screenshot](path_to_responsive_screenshot.png)
+   ![Responsive UI Screenshot](responsive.gif)
 
 ## Videos
 
 You can also showcase the core functionalities through demo videos.
 
 1. **Task Sorting Video**
-   ![Task Sorting Video](path_to_drag_and_drop_video.gif)
+   ![Task Sorting Video](sortable.gif)
    
 2. **Mobile Responsiveness Demo**
-   ![Mobile Responsiveness](path_to_responsive_video.gif)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+   ![Mobile Responsiveness](responsive.gif)
 
 ## Contributing
 
 Feel free to submit issues or pull requests to improve the app!
 
 ---
-
-Add your screenshots and videos where appropriate in the placeholders to make the README even more informative and interactive.
