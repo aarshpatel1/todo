@@ -17,7 +17,7 @@ A simple and efficient To-Do application that allows users to create, organize, 
 
 ### 3. **Responsive UI**
    - Fully responsive design to ensure a seamless experience across all devices, including desktops, tablets, and mobile phones.
-   ![Responsive UI](responsive.png)
+   ![Responsive UI](responsive.gif)
 
 ## How to Use
 
