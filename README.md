@@ -49,30 +49,27 @@ Check out the live demo of the app [here](https://aarshpatel1.github.io/todo/).
 
 ![alt text](todo.png)
 
-<!--
-## Screenshots
+<!-- ## Screenshots -->
 
-1. **Task Creation**
+<!-- 1. **Task Creation**
    <!-- ![Task Creation Screenshot](task-creation.png)-->
    
-2. **Drag-and-Drop Sorting**
+<!-- 2. **Drag-and-Drop Sorting**
    <!-- ![Drag-and-Drop Sorting](sortable.gif)-->
    
-3. **Responsive UI**
+<!-- 3. **Responsive UI**
    <!-- ![Responsive UI Screenshot](responsive.gif)-->
 
-## Videos
+<!-- ## Videos
 
 1. **Task Sorting Video**
    <!-- ![Task Sorting Video](sortable.gif)-->
    
-2. **Mobile Responsiveness Demo**
+<!-- 2. **Mobile Responsiveness Demo**
    <!-- ![Mobile Responsiveness](responsive.gif) -->
 
--->
 
 ## Contributing
 
 Feel free to submit issues or pull requests to improve the app!
 
----
