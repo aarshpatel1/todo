@@ -49,9 +49,8 @@ Check out the live demo of the app [here](https://aarshpatel1.github.io/todo/).
 
 ![alt text](todo.png)
 
+<!--
 ## Screenshots
-
-Add screenshots here to showcase different features of the app.
 
 1. **Task Creation**
    <!-- ![Task Creation Screenshot](task-creation.png)-->
@@ -64,13 +63,13 @@ Add screenshots here to showcase different features of the app.
 
 ## Videos
 
-You can also showcase the core functionalities through demo videos.
-
 1. **Task Sorting Video**
    <!-- ![Task Sorting Video](sortable.gif)-->
    
 2. **Mobile Responsiveness Demo**
    <!-- ![Mobile Responsiveness](responsive.gif) -->
+
+-->
 
 ## Contributing
 
