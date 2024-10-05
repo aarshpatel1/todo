@@ -47,6 +47,8 @@ Open the `index.html` file in any modern browser.
 
 Check out the live demo of the app [here](https://aarshpatel1.github.io/todo/).
 
+![alt text](todo.png)
+
 ## Screenshots
 
 Add screenshots here to showcase different features of the app.
